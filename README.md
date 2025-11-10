@@ -72,13 +72,13 @@ unity-perception-model/
 ```bash
 git clone https://github.com/yourusername/unity-perception-model.git
 cd unity-perception-model
-### 2 Create virtual environment
+ 2 Create virtual environment
 python -m venv venv
 source venv/bin/activate   # for macOS/Linux
 venv\Scripts\activate      # for Windows
-###3️⃣ Install dependencies
+3️⃣ Install dependencies
 pip install -r requirements.txt
-###4️⃣ Dependencies include:
+4️⃣ Dependencies include:
 torch >= 2.0
 torchvision
 ultralytics
