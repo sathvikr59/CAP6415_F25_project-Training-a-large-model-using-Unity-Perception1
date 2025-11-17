@@ -1,7 +1,7 @@
 Week 2 Progress Log
 Project Title: Training a Large Model Using Unity Perception Images
-Date: November 12, 2025
-Author: [Your Name]
+ November 12, 2025
+
 
 1. Objectives this week:
    - Convert Unity Perception JSON outputs to YOLO format.
@@ -13,7 +13,7 @@ Author: [Your Name]
    - Implemented data generation code to create 250 synthetic-like images and 250 real-like placeholder images.
    - Wrote `download_coco_subset.py` (requires Kaggle-downloaded COCO files) to filter and prepare a COCO subset in YOLO format.
    - Created `train.py` and `evaluate.py` using Ultralytics YOLO API.
-   - Generated initial metrics placeholders and saved in `results/`.
+   
 
 3. Issues & blockers:
    - Need actual COCO 2017 images and annotations downloaded via Kaggle API (due to size, not included in package).
