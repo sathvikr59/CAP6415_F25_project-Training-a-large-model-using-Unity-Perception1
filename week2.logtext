@@ -2,7 +2,7 @@ Week 2 Progress Log
 Project Title: Training a Large Model Using Unity Perception Images
  November 12, 2025
 
-
+unzip both real and synthetic datasets
 1. Objectives this week:
    - Convert Unity Perception JSON outputs to YOLO format.
    - Prepare and collect a COCO 2017 subset (cup, bottle, chair, laptop, book) using Kaggle.
